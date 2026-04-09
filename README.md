@@ -76,11 +76,15 @@ Designing normalized relational databases
 Implementing transactional business logic using stored procedures
 Writing analytical SQL queries for reporting
 Structuring database projects for scalability and maintainability
+
+
 💡 Future Improvements
 Add indexing to improve query performance
 Implement role-based access control
 Integrate reporting dashboards using Power BI
 Extend schema for multi-warehouse support
+
+
 👤 Author
 
 Om Patel
