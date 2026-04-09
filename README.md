@@ -64,3 +64,9 @@ OpsMetricsDB/
 2. Create the database:
    ```sql
    CREATE DATABASE OpsMetricsDB;
+3.Execute scripts in the following order:
+
+01_create_tables.sql
+02_seed_data.sql
+03_place_order_procedure.sql
+04_reports.sql
